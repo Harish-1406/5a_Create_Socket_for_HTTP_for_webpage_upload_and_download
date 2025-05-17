@@ -50,7 +50,8 @@ download_file(host, port, 'example.txt')
  print("File downloaded successfully.")
 ```
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5bab29ba-e9d7-4e94-8b16-f21bc391472f)
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
